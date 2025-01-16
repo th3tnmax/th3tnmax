@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @th3tnmax
+- 👋 Hi, I’m achraf hadrich
 - 👀 I’m interested web development
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
